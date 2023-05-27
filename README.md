@@ -1,8 +1,8 @@
 # GPTCurationCreator
-Description
+# Description
 This project is a Python-based script that uses Natural Language Processing (NLP) and Machine Learning to process and analyze text documents. The code uploads text documents, splits them into manageable chunks, generates embeddings, performs query searches on the documents, and provides curated responses based on these queries.
 
-Installation
+# Installation
 Install all necessary Python packages with the following commands:
 pip install openai langchain faiss-cpu
 pip install langchain
@@ -12,7 +12,7 @@ pip install chromadb
 pip install unstructured
 pip install tiktoken
 
-Usage
+# Usage
 Environment Variables: Make sure to set the OPENAI_API_KEY environment variable with your actual API key.
 
 os.environ['OPENAI_API_KEY'] = 'your_openai_api_key'
@@ -31,5 +31,5 @@ Results: The responses for each document are printed out at the end of the proce
 
 Note: If the document is too large to process in one go, the script will automatically break it down into smaller chunks for processing.
 
-Warnings
+# Warnings
 You may encounter warnings when running the script if the number of requested results is greater than the number of elements in the index. This is expected behavior and does not affect the results of the script.
