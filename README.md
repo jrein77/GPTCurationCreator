@@ -5,19 +5,19 @@ This project is a Python-based script that uses Natural Language Processing (NLP
 # Installation
 Install all necessary Python packages with the following commands:
 ```
-pip install openai langchain faiss-cpu
+!pip install openai langchain faiss-cpu
 
-pip install langchain
+!pip install langchain
 
-pip install openai
+!pip install openai
 
-pip install python-magic
+!pip install python-magic
 
-pip install chromadb
+!pip install chromadb
 
-pip install unstructured
+!pip install unstructured
 
-pip install tiktoken
+!pip install tiktoken
 ```
 
 # Usage
