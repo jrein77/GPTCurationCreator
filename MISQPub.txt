@@ -1,0 +1,238 @@
+Mudambi, & Schuff. (2010). Research Note: What Makes a Helpful Online Review? A Study of Customer Reviews on Amazon.com. MIS Quarterly, 34(1), 185.
+Benaroch, M., Lichtenstein, Y., & Fink, L. (2016). Contract Design Choices and the Balance of Ex Ante and Ex Post Transaction Costs in Software Development Outsourcing. 
+Wang, E. T. G., Tai, J. C. F., & Grover, V. (2013). Examining the Relational Benefits of Improved Interfirm Information Processing Capability in Buyer-Supplier Dyads. MIS Quarterly, 37(1), 149–173.
+Jensen, M. L., & Yetgin, E. (2017). Prominence and Interpretation of Online Conflict of Interest Disclosures. MIS Quarterly, 41(2), 629–643.
+Gefen, Wyss, & Lichtenstein. (2008). Business Familiarity as Risk Mitigation in Software Development Outsourcing Contracts. MIS Quarterly, 32(3), 531. DOI:10.2307/25148855
+Liu, Q. B., & Karahanna, E. (2017). The Dark Side of Reviews: The Swaying Effects of Online Product Reviews on Attribute Preference Construction. MIS Quarterly, 41(2), 427–448.
+Gefen, & Carmel. (2008). Is the World Really Flat? A Look at Offshoring at an Online Programming Marketplace. MIS Quarterly, 32(2), 367. DOI:10.2307/25148844
+Luo, X., Gu, B., Zhang, J., … Phang, C. W. (2017). Expert Blogs and Consumer Perceptions of Competing Brands. MIS Quarterly, 41(2), 371–395.
+Chang, Y. B., Gurbaxani, V., & Ravindran, K. (2017). Information Technology Outsourcing: Asset Transfer and the Role of Contract. MIS Quarterly, 41(3), 959–973. DOI:10.25300/misq/2017/41.3.13
+Jabr, W., & Zheng, Z. (2014). Know Yourself and Know Your Enemy. Mis Quarterly, 38(3), 635-A10.
+Chang, & Gurbaxani. (2012). Information Technology Outsourcing, Knowledge Transfer, and Firm Productivity: An Empirical Analysis. MIS Quarterly, 36(4), 1043. DOI:10.2307/41703497
+Yin, D., Bond, S. D., & Zhang, H. (2014). Anxious or Angry? Effects of Discrete Emotions on the Perceived Helpfulness of Online Reviews. MIS Quarterly, 38(2), 539–560.
+Aggarwal, R., & Singh, H. (2013). Differential Influence of Blogs Across Different Stages of Decision Making: The Case of Venture Capitalists. MIS Quarterly, 37(4), 1093–1112.
+Tanriverdi. (2005). Information Technology Relatedness, Knowledge Management Capability, and Performance of Multibusiness Firms. MIS Quarterly, 29(2), 311.
+Venkatesh, Thong, & Xu. (2012). Consumer Acceptance and Use of Information Technology: Extending the Unified Theory of Acceptance and Use of Technology. MIS Quarterly, 36(1), 157.
+Venkatesh, Morris, Davis, & Davis. (2003). User Acceptance of Information Technology: Toward a Unified View. MIS Quarterly, 27(3), 425.
+Choudhury, V., Hartzel, K. S., & Konsynski, B. R. (1998). Uses and Consequences of Electronic Markets: An Empirical Investigation in the Aircraft Parts Industry. MIS Quarterly, 22(4)
+Chatterjee, D., Grewal, R., & Sambamurthy, V. (2002). Shaping up for E-Commerce: Institutional Enablers of the Organizational Assimilation of Web Technologies. MIS Quarterly, 26(2), 65.
+Jenkin, T. A., Chan, Y. E., & Sabherwal, R. (2019). Mutual Understanding in Information Systems Development: Changes Within and Across Projects. MIS Quarterly, 43(2), 649–671.
+Venkatesh, Brown, Maruping, & Bala. (2008). Predicting Different Conceptualizations of System Use: The Competing Roles of Behavioral Intention, Facilitating Conditions, and Behavioral Expectation. MIS Quarterly, 32(3), 483.
+Poston, & Speier. (2005). Effective Use of Knowledge Management Systems: A Process Model of Content Ratings and Credibility Indicators. MIS Quarterly, 29(2), 221.
+Turel, Serenko, & Giles. (2011). Integrating Technology Addiction and Use: An Empirical Investigation of Online Auction Users. MIS Quarterly, 35(4), 1043.
+Subramani. (2004). How Do Suppliers Benefit from Information Technology Use in Supply Chain Relationships? MIS Quarterly, 28(1), 45.
+Ahuja, & Thatcher. (2005). Moving beyond Intentions and toward the Theory of Trying: Effects of Work Environment and Gender on Post-Adoption Information Technology Use. MIS Quarterly, 29(3), 427. DOI:10.2307/25148691
+Ransbotham, & Kane. (2011). Membership Turnover and Collaboration Success in Online Communities: Explaining Rises and Falls from Grace in Wikipedia. MIS Quarterly, 35(3), 613.
+Boynton, A. C., Zmud, R. W., & Jacobs, G. C. (1994). The Influence of IT Management Practice on IT Use in Large Organizations. MIS Quarterly, 18(3), 299. DOI:10.2307/249620
+Tsai, H.-T., & Bagozzi, R. P. (2014). Contribution Behavior in Virtual Communities: Cogntiive, Emotional, and Social Influences. MIS Quarterly, 38(1), 143–163.
+Bhattacherjee, & Premkumar. (2004). Understanding Changes in Belief and Attitude toward Information Technology Usage: A Theoretical Model and Longitudinal Test. MIS Quarterly, 28(2), 229. DOI:10.2307/25148634
+Goodhue, D. L., & Thompson, R. L. (1995). Task-Technology Fit and Individual Performance. MIS Quarterly, 19(2), 213. DOI:10.2307/249689
+Huang, P., & Zhang, Z. (2016). Participation in Open Knowledge Communities and Job-Hopping: Evidence from Enterprise Software. MIS Quarterly, 40(3), 785–806. DOI:10.25300/misq/2016/40.3.13
+Gopal, R. D., Hidaji, H., Patterson, R. A., Rolland, E., … Zhdanov, D. (2018). How Much to Share with Third Parties?User Privacy Concerns and Website Dilemmas. MIS Quarterly, 42(1), 143–164.
+Moore, J. E. (2000). One Road to Turnover: An Examination of Work Exhaustion in Technology Professionals. MIS Quarterly, 24(1), 141.
+Maruping, L. M., Daniel, S. L., & Cataldo, M. (2019). Developer Centrality and the Impact of Value Congruence and Incongruence on Commitment and Code Contribution Activity in Open Source Software Communities. MIS Quarterly, 43(3), 951–976.
+Sutanto, J., Palme, E., Tan, C.-H., … Phang, C. W. (2013). Addressing the Personalization-Privacy Paradox:An Empirical Assessment from a Field Experiment on Smartphone Users. MIS Quarterly, 37(4), 1141–1164.
+Joseph, Ng, Koh, & Ang. (2007). Turnover of Information Technology Professionals: A Narrative Review, Meta-Analytic Structural Equation Modeling, and Model Development. MIS Quarterly, 31(3), 547.
+Hong, W., & Thong, J. Y. L. (2013). Internet Privacy Concerns:An Integrated Conceptualization and Four Empirical Studies. MIS Quarterly, 37(1), 275–298.
+Jabr, W., Mookerjee, R., Tan, Y., … Mookerjee, V. S. (2014). Leveraging Philanthropic Behavior for Customer Support: The Case of User Support Forums. MIS Quarterly, 38(1), 187–208.
+Igbaria, M., & Wormley, W. M. (1992). Organizational Experiences and Career Success of MIS Professionals and Managers: An Examination of Race Differences. MIS Quarterly, 16(4), 507.
+Smith, Dinev, & Xu. (2011). Information Privacy Research: An Interdisciplinary Review. MIS Quarterly, 35(4), 989.
+Susarla, A., Barua, A., & Whinston, A. B. (2003). Understanding the Service Component of Application Service Provision: An Empirical Analysis of Satisfaction with ASP Services. MIS Quarterly, 91-123.
+Igbaria, M., Greenhaus, J. H., & Parasuraman, S. (1991). Career Orientations of MIS Employees: An Empirical Analysis. MIS Quarterly, 15(2), 151.
+Igbaria, M., & Baroudi, J. J. (1995). The Impact of Job Performance Evaluations on Career Advancement Prospects: An Examination of Gender Differences in the IS Workplace. MIS Quarterly, 19(1), 107.
+Goldstein, D. K., & Rockart, J. F. (1984). An Examination of Work-Related Correlates of Job Satisfaction in Programmer/Analysts. MIS Quarterly, 8(2), 103.
+Ayyagari, Grover, & Purvis. (2011). Technostress: Technological Antecedents and Implications. MIS Quarterly, 35(4), 831.
+Mitchell. (2006). Knowledge Integration and Information Technology Project Performance. MIS Quarterly, 30(4), 919.
+Stewart, & Gosain. (2006). The Impact of Ideology on Effectiveness in Open Source Software Development Teams. MIS Quarterly, 30(2), 291. DOI:10.2307/25148732
+Newman, M., & Sabherwal, R. (1996). Determinants of Commitment to Information Systems Development: A Longitudinal Investigation. MIS Quarterly, 20(1), 23.
+Montealegre, R., & Keil, M. (2000). De-Escalating Information Technology Projects: Lessons from the Denver International Airport. MIS Quarterly, 24(3), 417.
+Lee, & Xia. (2010). Toward Agile: An Integrated Analysis of Quantitative and Qualitative Field Data on Software Development Agility. MIS Quarterly, 34(1), 87.
+Kudaravalli, S., Faraj, S., & Johnson, S. L. (2017). A Configural Approach to Coordinating Expertise in Software Development Teams. MIS Quarterly, 41(1), 43–64.
+Keil, M., Tan, B. C. Y., Wei, K.-K., Saarinen, T., Tuunainen, V., & Wassenaar, A. (2000). A Cross-Cultural Study on Escalation of Commitment Behavior in Software Projects. MIS Quarterly, 24(2), 299.
+Keil, M. (1995). Pulling the Plug: Software Project Management and the Problem of Project Escalation. MIS Quarterly, 19(4), 421.
+Iacovou, Thompson, & Smith. (2009). Selective Status Reporting in Information Systems Projects: A Dyadic-Level Investigation. MIS Quarterly, 33(4), 785. DOI:10.2307/20650327
+Chen, Y., Bharadwaj, A., & Goh, K.-Y. (2017). An Empirical Analysis of Intellectual Property Rights Sharing in Software Development Outsourcing. MIS Quarterly, 41(1), 131–161.
+Barki, H., & Hartwick, J. (2001). Interpersonal Conflict and Its Management in Information System Development. MIS Quarterly, 25(2), 195.
+Ou, C. X., Pavlou, P. A., & Davison, R. M. (2014). Swift Guanxi in Online Marketplaces:The Role of Computer-Mediated Communication Technologies. MIS Quarterly, 38(1), 209–230.
+Tanriverdi. (2006). Performance Effects of Information Technology Synergies in Multibusiness Firms. MIS Quarterly, 30(1), 57.
+McElroy, Hendrickson, Townsend, & DeMarie. (2007). Dispositional Factors in Internet Use: Personality versus Cognitive Style. MIS Quarterly, 31(4), 809.
+Serrano, C., & Karahanna, E. (2016). The Compensatory Interaction Between User Capabilities and Technology Capabilities in Influencing Task Performance:An Empirical Assessment in Telemedicine Consultations. MIS Quarterly, 40(3), 597–621.
+Massey, & Montoya-Weiss. (2006). Unraveling the Temporal Fabric of Knowledge Conversion: A Model of Media Selection and Use. MIS Quarterly, 30(1), 99.
+Maruping, L. M., & Magni, M. (2015). Motivating Employees to Explore Collaboration Technology in Team Contexts. MIS Quarterly, 39(1), 1–16.
+Romanow, D., Rai, A., & Keil, M. (2018). CPOE-Enabled Coordination:Appropriation for Deep Structure Use and Impacts on Patient Outcomes. MIS Quarterly, 42(1), 189–212.
+Limayem, Hirt, & Cheung. (2007). How Habit Limits the Predictive Power of Intention: The Case of Information Systems Continuance. MIS Quarterly, 31(4), 705.
+Ray, Muhanna, & Barney. (2005). Information Technology and the Performance of the Customer Service Process: A Resource-Based Analysis. MIS Quarterly, 29(4), 625.
+Seddon, Calvert, & Yang. (2010). A Multi-Project Model of Key Factors Affecting Organizational Benefits from Enterprise Systems. MIS Quarterly, 34(2), 305.
+Majchrzak, A., Rice, R. E., Malhotra, A., King, N., & Ba, S. (2000). Technology Adaptation: The Case of a Computer-Supported Inter-Organizational Virtual Team. MIS Quarterly, 24(4), 569.
+Schmitz, K. W., Teng, J. T. C., & Webb, K. J. (2016). Capturing the Complexity of Malleable IT Use: Adaptive Structuration Theory for Individuals. MIS Quarterly, 40(3), 663–686.
+Beck, R., Pahlke, I., & Seebach, C. (2014). Knowledge Exchange and Symbolic Action in Social Media-Enabled Electronic Networks of Practice: A Multilevel Perspective on Knowledge Seekers and Contributors. MIS Quarterly, 38(4), 1245–1270.
+Rai, Maruping, & Venkatesh. (2009). Offshore Information Systems Project Success: The Role of Social Embeddedness and Cultural Characteristics. MIS Quarterly, 33(3), 617. DOI:10.2307/20650313
+Han, K., & Mithas, S. (2013). Information Technology Outsourcing and Non-IT Operating Costs: An Empirical Investigation. MIS Quarterly, 37(1), 315–331. DOI:10.25300/misq/2013/37.1.14
+Meyer, M. H., & Curley, K. F. (1991). An Applied Framework for Classifying the Complexity of Knowledge-Based Systems. MIS Quarterly, 15(4), 455.
+Wu, J., Huang, L., & Zhao, J. L. (2019). Operationalizing Regulatory Focus in the Digital Age: Evidence from an E-Commerce Context. MIS Quarterly, 43(3), 745–764.
+Sengupta, K., & Te’eni, D. (1993). Cognitive Feedback in GDSS: Improving Control and Convergence. MIS Quarterly, 17(1), 87.
+Moeini, M., & Rivard, S. (2019). Responding--or Not--to Information Technology Project Risks: An Integrative Model. MIS Quarterly, 43(2), 475–500.
+Li, H., Fang, Y., Lim, K. H., … Wang, Y. (2019). Platform-Based Function Repertoire, Reputation, and Sales Performance of E-Marketplace Sellers. MIS Quarterly, 43(1), 207–236.
+Hahn, Doh, & Bunyaratavej. (2009). The Evolution of Risk in Information Systems Offshoring: The Impact of Home Country Risk, Firm Learning, and Competitive Dynamics. MIS Quarterly, 33(3), 597.
+Susarla, A., & Mukhopadhyay, T. (2019). Can Outsourcing of Information Technology Foster Innovations in Client Organizations? An Empirical Analysis. MIS Quarterly, 43(3), 929–949. DOI:10.25300/misq/2019/13535
+Venkatesh, V., Sykes, T. A., Rai, A., & Setia, P. (2019). Governance and ICT4D initiative success: A longitudinal field study of ten villages in rural India. MIS Quarterly, 43(4).
+Huang, N., Hong, Y., & Burtch, G. (2017). Social Network Integration and User Content Generation: Evidence from Natural Experiments. MIS Quarterly, 41(4), 1035–1058.
+Li, M., Tan, C.-H., Wei, K.-K., … Wang, K. (2017). Sequentiality of Product Review Information Provision: An Information Foraging Perspective. MIS Quarterly, 41(3), 867–892.
+Gray, Parise, & Iyer. (2011). Innovation Impacts of Using Social Bookmarking Systems. MIS Quarterly, 35(3), 629. DOI:10.2307/23042800
+Gefen, D., & Straub, D. W. (1997). Gender Differences in the Perception and Use of E-Mail: An Extension to the Technology Acceptance Model. MIS Quarterly, 21(4), 389. DOI:10.2307/249720
+Gattiker, & Goodhue. (2005). What Happens after ERP Implementation: Understanding the Impact of Interdependence and Differentiation on Plant-Level Outcomes. MIS Quarterly, 29(3), 559. DOI:10.2307/25148695
+Dennis, Fuller, & Valacich. (2008). Media, Tasks, and Communication Processes: A Theory of Media Synchronicity. MIS Quarterly, 32(3), 575. DOI:10.2307/25148857
+Dennis, A. R. (1996). Information Exchange and Use in Group Decision Making: You Can Lead a Group to Information, but You Can’t Make It Think. MIS Quarterly, 20(4), 433–457. https://doi.org/10.2307/249563
+DeLone, W. H. (1988). Determinants of Success for Computer Usage in Small Business. MIS Quarterly, 12(1), 51.
+Davis, F. D. (1989). Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology. MIS Quarterly, 13(3), 319. DOI:10.2307/249008
+Liang, Saraf, Hu, & Xue. (2007). Assimilation of Enterprise Systems: The Effect of Institutional Pressures and the Mediating Role of Top Management. MIS Quarterly, 31(1), 59.
+Kim, S. H., Mukhopadhyay, T., & Kraut, R. E. (2016). When Does Repository KMS Use Lift Performance? The Role of Alternative Knowledge Sources and Task Environments. MIS Quarterly, 40(1), 133–156.
+Karahanna, E., Xin Xu, S., Xu, Y., … Zhang, N. (Andy). (2018). The Needs–Affordances–Features Perspective for the Use of Social Media. MIS Quarterly, 42(3), 737–756.
+Karahanna, Agarwal, & Angst. (2006). Reconceptualizing Compatibility Beliefs in Technology Acceptance Research. MIS Quarterly, 30(4), 781.
+Jung, J., Bapna, R., Ramaprasad, J., … Umyarov, A. (2019). Love Unshackled: Identifying the Effect of Mobile App Adoption in Online Dating. MIS Quarterly, 43(1), 47–72.
+James, T. L., Wallace, L., & Deane, J. K. (2019). Using organismic integration theory to explore the associations between users' exercise motivations and fitness technology feature set use. MIS Quarterly, 43(1), 287-312.
+Iacovou, C. L., Benbasat, I., & Dexter, A. S. (1995). Electronic Data Interchange and Small Organizations: Adoption and Impact of Technology. MIS Quarterly, 19(4), 465.
+Iyengar, K., Sweeney, J. R., & Montealegre, R. (2015). Information Technology Use as a Learning Mechanism: The Impact of IT Use on Knowledge Transfer Effectiveness, Absorptive Capacity, and Franchisee Performance. MIS Quarterly, 39(3), 615–641.
+Ko, Kirsch, & King. (2005). Antecedents of Knowledge Transfer from Consultants to Clients in Enterprise System Implementations. MIS Quarterly, 29(1), 59.
+Rai, Pavlou, Im, & Du. (2012). Interfirm IT Capability Profiles and Communications for Cocreating Relational Value: Evidence from the Logistics Industry. MIS Quarterly, 36(1), 233.
+Polites, G. L., & Karahanna, E. (2013). The Embeddedness of Information Systems Habits in Organizational and Individual Level Routines: Development and Disruption. MIS Quarterly, 37(1), 221–246.
+Pinsonneault, A., & Rivard, S. (1998). Information Technology and the Nature of Managerial Work: From the Productivity Paradox to the Icarus Paradox? MIS Quarterly, 22(3), 287.
+Goo, Kishore, Rao, & Nam. (2009). The Role of Service Level Agreements in Relational Management of Information Technology Outsourcing: An Empirical Study. MIS Quarterly, 33(1), 119. DOI:10.2307/20650281
+Kankanhalli, Tan, & Wei. (2005). Contributing Knowledge to Electronic Knowledge Repositories: An Empirical Investigation. MIS Quarterly, 29(1), 113.
+Miranda, & Kim. (2006). Professional versus Political Contexts: Institutional Mitigation and the Transaction Cost Heuristic in Information Systems Outsourcing. MIS Quarterly, 30(3), 725. DOI:10.2307/25148747
+Pan, Y., Huang, P., & Gopal, A. (2016). Board independence and firm performance in the IT industry: The moderating role of new entry threats. MIS Quarterly.
+Bock, Zmud, Kim, & Lee. (2005). Behavioral Intention Formation in Knowledge Sharing: Examining the Roles of Extrinsic Motivators, Social-Psychological Forces, and Organizational Climate. MIS Quarterly, 29(1), 87.
+Paul, & McDaniel. (2004). A Field Study of the Effect of Interpersonal Trust on Virtual Collaborative Relationship Performance. MIS Quarterly, 28(2), 183.
+Sergeeva, A., Huysman,, M., Soekijad, M., … van den Hooff, B. (2017). Through the Eyes of Others:How Onlookers Shape the Use of Technology at Work. MIS Quarterly, 41(4), 1153–1178.
+Venkatesh, V., Windeler, J. B., Bartol, K. M., … Williamson, I. O. (2017). Person–Organization and Person–Job Fit Perceptions of New IT Employees: Work Outcomes and Gender Differences. MIS Quarterly, 41(2), 525–558.
+Salge, T. O., Kohli, R., & Barrett, M. (2015). Investing in information systems: On the behavioral and institutional search mechanisms underpinning hospitals’ IS investment decisions. MIS Quarterly, 39(1), 61-90.
+Srivastava, S. C., & Shainesh, G. (2015). Bridging the Service Divide Through Digitally Enabled Service Innovations:Evidence from Indian Healthcare Service Providers. MIS Quarterly, 39(1), 245–267.
+Park, I., Sharman, R., & Rao, H. R. (2015). Disaster Experience and Hospital Information Systems: An Examination of Perceived Information Assurance, Risk, Resilience, and HIS Usefulness. MIS Quarterly, 39(2), 317–344.
+Rutner, Hardgrave, & McKnight. (2008). Emotional Dissonance and the Information Technology Professional. MIS Quarterly, 32(3), 635.
+Piccoli, & Ives. (2003). Trust and the Unintended Effects of Behavior Control in Virtual Teams. MIS Quarterly, 27(3), 365.
+Kohli, R., & Kettinger, W. J. (2004). Informating the clan: Controlling physicians' costs and outcomes. Mis Quarterly, 363-394.
+Trantopoulos, K., von Krogh, G., Wallin, M. W., … Woerter, M. (2017). External Knowledge and Information Technology: Implications for Process Innovation Performance. MIS Quarterly, 41(1), 287–300.
+Lapointe, & Rivard. (2005). A Multilevel Model of Resistance to Information Technology Implementation. MIS Quarterly, 29(3), 461.
+Tian, F., & Xu, S. X. (2015). How Do Enterprise Resource Planning Systems Affect Firm Risk? Post-Implementation Impact. MIS Quarterly, 39(1), 39–60.
+Goh, J. M., Gao, G. (Gordon), & Agarwal, R. (2016). The Creation of Social Value: Can an Online Health Community Reduce Rural-Urban Health Disparities? MIS Quarterly, 40(1), 247–263.
+Thompson, R. L., Higgins, C. A., & Howell, J. M. (1991). Personal Computing: Toward a Conceptual Model of Utilization. MIS Quarterly, 15(1), 125.
+Gopal, & Koka. (2012). The Asymmetric Benefits of Relational Flexibility: Evidence from Software Development Outsourcing. MIS Quarterly, 36(2), 553. DOI:10.2307/41703467
+Ganju, K. K., Pavlou, P. A., & Banker, R. D. (2016). Does Information and Communication Technology Lead to the Well-Being of Nations?A Country-Level Empirical Investigation. MIS Quarterly, 40(2), 417–430.
+Thatcher, J. B., Wright, R. T., Sun, H., Zagenczyk, T. J., … Klein, R. (2018). Mindfulness in Information Technology Use: Definitions, Distinctions, and a New Measure. MIS Quarterly, 42(3), 831–847.
+Beaudry, & Pinsonneault. (2010). The Other Side of Acceptance: Studying the Direct and Indirect Effects of Emotions on Information Technology Use. MIS Quarterly, 34(4), 689. DOI:10.2307/25750701
+Taylor, S., & Todd, P. (1995). Assessing IT Usage: The Role of Prior Experience. MIS Quarterly, 19(4), 561.
+Bartelt, V. L., & Dennis, A. R. (2014). Nature and Nurture: The Impact of Automaticity and the Structuration of Communication on Virtual Team Behavior and Performance. MIS Quarterly, 38(2), 521–538.
+Sykes, T. A., Venkatesh, V., & Gosain, S. (2009). Model of acceptance with peer support: A social network perspective to understand employees' system use. MIS quarterly, 371-393.
+Adams, D. A., Nelson, R. R., & Todd, P. A. (1992). Perceived Usefulness, Ease of Use, and Usage of Information Technology: A Replication. MIS Quarterly, 16(2), 227. DOI:10.2307/249577
+Banker, Bardhan, Chang, & Lin. (2006). Plant Information Systems, Manufacturing Capabilities, and Plant Performance. MIS Quarterly, 30(2), 315. DOI:10.2307/25148733
+Sun. (2012). Understanding User Revisions When Using Information System Features: Adaptive System Use and Triggers. MIS Quarterly, 36(2), 453.
+Arnold, Clark, Collier, Leech, & Sutton. (2006). The Differential Use and Effect of Knowledge-Based System Explanations in Novice and Expert Judgment Decisions. MIS Quarterly, 30(1), 79.
+Ba, S., & Pavlou, P. A. (2002). Evidence of the Effect of Trust Building Technology in Electronic Markets: Price Premiums and Buyer Behavior. MIS Quarterly, 26(3), 243. DOI:10.2307/4132332
+Ang, S., & Straub, D. W. (1998). Production and Transaction Economies and IS Outsourcing: A Study of the U. S. Banking Industry. MIS Quarterly, 22(4), 535.
+Moody, G. D., Siponen, M., & Pahnila, S. (2018). Toward a Unified Model of Information Security Policy Compliance. MIS Quarterly, 42(1), 285–311.
+Ang, S., & Slaughter, S. A. (2001). Work Outcomes and Job Design for Contract versus Permanent Information Systems Professionals on Software Development Teams. MIS Quarterly, 25(3), 321.
+Ågerfalk, & Fitzgerald. (2008). Outsourcing to an Unknown Workforce: Exploring Opensurcing as a Global Sourcing Strategy. MIS Quarterly, 32(2), 385.
+Eesley, C., & Wu, L. (2020). For Startups, Adaptability and Mentor Network Diversity Can be Pivotal: Evidence from a Randomized Experiment on a MOOC Platform. MIS Quarterly, 44(2), 661–697.
+Bassellier, & Benbasat. (2004). Business Competence of Information Technology Professionals: Conceptual Development and Influence on IT-Business Partnerships. MIS Quarterly, 28(4), 673.
+Son, J. Y., & Kim, S. S. (2008). Internet users' information privacy-protective responses: A taxonomy and a nomological model. MIS quarterly, 503-529.
+Baroudi, J. J. (1985). The Impact of Role Variables on IS Personnel Work Attitudes and Intentions. MIS Quarterly, 9(4), 341.
+Balijepally, Mahapatra, Nerur, & Price. (2009). Are Two Heads Better than One for Software Development? The Productivity Paradox of Pair Programming. MIS Quarterly, 33(1), 91.
+Pavlou, Liang, & Xue. (2007). Understanding and Mitigating Uncertainty in Online Exchange Relationships: A Principal-Agent Perspective. MIS Quarterly, 31(1), 105.
+Armstrong, & Hardgrave. (2007). Understanding Mindshift Learning: The Transition to Object-Oriented Development. MIS Quarterly, 31(3), 453.
+Hui, Teo, & Lee. (2007). The Value of Privacy Assurance: An Exploratory Field Experiment. MIS Quarterly, 31(1), 19.
+Awad, & Krishnan. (2006). The Personalization Privacy Paradox: An Empirical Evaluation of Information Transparency and the Willingness to Be Profiled Online for Personalization. MIS Quarterly, 30(1), 13.
+Ahuja, Chudoba, Kacmar, McKnight, & George. (2007). IT Road Warriors: Balancing Work-Family Conflict, Job Autonomy, and Work Overload to Mitigate Turnover Intentions. MIS Quarterly, 31(1), 1.
+Culnan, M. J. (1993). “How Did They Get My Name?”: An Exploratory Investigation of Consumer Attitudes toward Secondary Information Use. MIS Quarterly, 17(3), 341.
+Tavakolian, H. (1989). Linking the Information Technology Structure with Organizational Competitive Strategy: A Survey. MIS Quarterly, 13(3), 309. DOI:10.2307/249006
+Abdel-Hamid, T. K., Sengupta, K., & Swett, C. (1999). The Impact of Goals on Software Project Management: An Experimental Investigation. MIS Quarterly, 23(4), 531.
+Zigurs, I., & Kozar, K. A. (1994). An Exploratory Study of Roles in Computer-Supported Groups. MIS Quarterly, 18(3), 277.
+Thomas, & Bostrom. (2010). Vital Signs for Virtual Teams: An Empirically Developed Trigger Model for Technology Adaptation Interventions. MIS Quarterly, 34(1), 115. DOI:10.2307/20721417
+Srivastava, S. C., & Chandra, S. (2018). Social Presence in Virtual World Collaboration: An Uncertainty Reduction Perspective Using a Mixed Methods Approach. MIS Quarterly, 42(3), 779–803.
+Saunders, Rutkowski, Genuchten van, Vogel, & Orrego. (2011). Virtual Space and Place: Theory And Test. MIS Quarterly, 35(4), 1079.
+Majchrzak, Beath, Lim, & Chin. (2005). Managing Client Dialogues during Information Systems Design to Facilitate Client Learning. MIS Quarterly, 29(4), 653.
+Alavi, M. (1994). Computer-Mediated Collaborative Learning: An Empirical Evaluation. MIS Quarterly, 18(2), 159.
+Kanawattanachai, & Yoo. (2007). The Impact of Knowledge Coordination on Virtual Team Performance over Time. MIS Quarterly, 31(4), 783.
+Dennis, A. R., George, J. F., Jessup, L. M., Nunamaker, J. F., & Vogel, D. R. (1988). Information Technology to Support Electronic Meetings. MIS Quarterly, 12(4), 591.
+Jessup, L. M., Connolly, T., & Galegher, J. (1990). The Effects of Anonymity on GDSS Group Process with an Idea-Generating Task. MIS Quarterly, 14(3), 313.
+Gallupe, R. B., DeSanctis, G., & Dickson, G. W. (1988). Computer-Based Support for Group Problem-Finding: An Experimental Investigation. MIS Quarterly, 12(2), 277.
+Dennis, A. R., Aronson, J. E., Heninger, W. G., & Walker, E. D. (1999). Structuring Time and Task in Electronic Brainstorming. MIS Quarterly, 23(1), 95.
+Kwon, J., & Johnson, M. E. (2014). Proactive Versus Reactive Security Investments in the Healthcare Sector. MIS Quarterly, 38(2), 451–471.
+Angst, & Agarwal. (2009). Adoption of Electronic Health Records in the Presence of Privacy Concerns: The Elaboration Likelihood Model and Individual Persuasion. MIS Quarterly, 33(2), 339.
+Sarker, & Valacich. (2010). An Alternative to Methodological Individualism: A Non-Reductionist Approach to Studying Technology Adoption by Groups. MIS Quarterly, 34(4), 779.
+Choi, Lee, & Yoo. (2010). The Impact of Information Technology and Transactive Memory Systems on Knowledge Sharing, Application, and Team Performance: A Field Study. MIS Quarterly, 34(4), 855.
+Zigurs, I., & Buckland, B. K. (1998). A Theory of Task/Technology Fit and Group Support Systems Effectiveness. MIS Quarterly, 22(3), 313.
+Watson, R. T., DeSanctis, G., & Poole, M. S. (1988). Using a GDSS to Facilitate Group Consensus: Some Intended and Unintended Consequences. MIS Quarterly, 12(3), 463.
+Compeau, D. R., & Higgins, C. A. (1995). Computer Self-Efficacy: Development of a Measure and Initial Test. MIS Quarterly, 19(2), 189. DOI:10.2307/249688
+Dibbern, Winkler, & Heinzl. (2008). Explaining Variations in Client Extra Costs between Software Projects Offshored to India. MIS Quarterly, 32(2), 333. DOI:10.2307/25148843
+Wasko, & Faraj. (2005). Why Should I Share? Examining Social Capital and Knowledge Contribution in Electronic Networks of Practice. MIS Quarterly, 29(1), 35.
+Wang, Y., Meister, D. B., & Gray, P. H. (2013). Social Influence and Knowledge Management Systems Use: Evidence from Panel Data. MIS Quarterly, 37(1), 299–313.
+Compeau, D., Higgins, C. A., & Huff, S. (1999). Social Cognitive Theory and Individual Reactions to Computing Technology: A Longitudinal Study. MIS Quarterly, 23(2), 145.
+Christiaanse, E., & Venkatraman, N. (2002). Beyond Sabre: An empirical test of expertise exploitation in electronic channels. MIS quarterly, 15-38.
+Vlaar, van Fenema, & Tiwari. (2008). Cocreating Understanding and Value in Distributed Work: How Members of Onsite and Offshore Vendor Teams Give, Make, Demand, and Break Sense. MIS Quarterly, 32(2), 227.
+Chidambaram, L., & Jones, B. (1993). Impact of Communication Medium and Computer Support on Group Perceptions and Performance: A Comparison of Face-to-Face and Dispersed Meetings. MIS Quarterly, 17(4), 465.
+Angst, C. M., Block, E. S., D’Arcy, J., … Kelley, K. (2017). When Do IT Security Investments Matter?Accounting for the Influence of Institutional Factors in the Context of Healthcare Data Breaches. MIS Quarterly, 41(3), 893–916.
+Curtis, A. M., Dennis, A. R., & McNamara, K. O. (2017). From Monologue to Dialogue: Performative Objects to Promote Collective Mindfulness in Computer-Mediated Team Discussions. MIS Quarterly, 41(2), 559–581.
+Angst, C. M., Wowak, K. D., Handley, S. M., … Kelley, K. (2017). Antecedents of Information Systems Sourcing Strategies in U.S. Hospitals: A Longitudinal Study. MIS Quarterly, 41(4), 1129–1152.
+Avgar, A., Tambe, P., & Hitt, L. M. (2018). Built to Learn: How Work Practices Affect Employee Learning During Healthcare Information Technology Implementation. MIS Quarterly, 42(2), 645–659.
+Ayabakan, S., Bardhan, I., Zheng, Z. (Eric), … Kirksey, K. (2017). The Impact of Health Information Sharing on Duplicate Testing. MIS Quarterly, 41(4), 1083–1103.
+Burke, K., & Chidambaram, L. (1999). How Much Bandwidth Is Enough? A Longitudinal Examination of Media Characteristics and Group Outcomes. MIS Quarterly, 23(4), 557.
+Chan, J., & Ghose, A. (2012). Internet's Dirty Secret: Assessing the Impact of Online Intermediaries on the Outbreak of Sexually Transmitted Diseases (No. 12-07).
+Dennis, & Garfield. (2003). The Adoption and Use of GSS in Project Teams: Toward More Participative Processes and Outcomes. MIS Quarterly, 27(2), 289.
+Zmud, R. W. (1983). The Effectiveness of External Information Channels in Facilitating Innovation within Software Development Groups. MIS Quarterly, 7(2), 43.
+Gao, G. (Gordon), Greenwood, B. N., Agarwal, R., … McCullough, J. S. (2015). Vocal Minority and Silent Majority:How Do Online Ratings Reflect Population Perceptions of Quality? MIS Quarterly, 39(3), 565–589.
+Kane, & Borgatti. (2011). Centrality-Is Proficiency Alignment and Workgroup Performance. MIS Quarterly, 35(4), 1063.
+Kohli, R., Devaraj, S., & Ow, T. T. (2012). Does information technology investment influence a firm's market value? A case of non-publicly traded healthcare firms. MIS quarterly, 1145-1163.
+Watson, R. T. (1990). Influences on the IS manager's perceptions of key issues: Information scanning and the relationship with the CEO. MIs Quarterly, 217-231.
+Menon, N. M. (2018). Information Spillover and Semi-Collaborative Networks in Insurer Fraud Detection. MIS Quarterly, 42(2), 407–426.
+Yeow, A., & Goh, K. H. (2015). Work Harder or Work Smarter?Information Technology and Resource Allocation in Healthcare Processes. MIS Quarterly, 39(4), 763–785.
+Reich, B. H., & Kaarst-Brown, M. L. (1999). “Seeding the Line”: Understanding the Transition from IT to Non-IT Careers. MIS Quarterly, 23(3), 337.
+Wunderlich, P., Veit, D. J., & Sarker, S. (2019). Adoption of Sustainable Technologies: A Mixed-Methods Study of German Households. MIS Quarterly, 43(2), 673–691.
+Rasch, R. H., & Tosi, H. L. (1992). Factors affecting software developers' performance: An integrated approach. MIS quarterly, 395-413.
+Adjerid, I., Peer, E., & Acquisti, A. (2018). Beyond the Privacy Paradox: Objective Versus Relative Risk in Privacy Decision Making. MIS Quarterly, 42(2), 465–488.
+Reich, B. H., & Benbasat, I. (2000). Factors That Influence the Social Dimension of Alignment between Business and Information Technology Objectives. MIS Quarterly, 24(1), 81. DOI:10.2307/3250980
+Armstrong, D. J., Brooks, N. G., & Riemenschneider, C. K. (2015). Exhaustion from Information System Career Experience: Implications for Turn-Away Intention. MIS Quarterly, 39(3), 713–727.
+Soh, Markus, & Goh. (2006). Electronic Marketplaces and Price Transparency: Strategy, Information Technology, and Success. MIS Quarterly, 30(3), 705.
+Lee, S.-Y., Rui, H., & Whinston, A. B. (2019). Is Best Answer Really the Best Answer? The Politeness Bias. MIS Quarterly, 43(2), 579–600.
+Mani, Barua, & Whinston. (2010). An Empirical Analysis of the Impact of Information Capabilities Design on Business Process Outsourcing Performance. MIS Quarterly, 34(1), 39. DOI:10.2307/20721414
+Spears, & Barki. (2010). User Participation in Information Systems Security Risk Management. MIS Quarterly, 34(3), 503. DOI:10.2307/25750689
+Huang, P., Tafti, A., & Mithas, S. (2018). Platform Sponsor Investments and User Contributions in Knowledge Communities: The Role of Knowledge Seeding. MIS Quarterly, 42(1), 213–240.
+Banker, Hu, Pavlou, & Luftman. (2011). CIO Reporting Structure, Strategic Positioning, and Firm Performance. MIS Quarterly, 35(2), 487. DOI:10.2307/23044053
+Ramasubbu, Mithas, Krishnan, & Kemerer. (2008). Work Dispersion, Process-Based Learning, and Offshore Software Development Performance. MIS Quarterly, 32(2), 437.
+Tallon, & Pinsonneault. (2011). Competing Perspectives on the Link Between Strategic Information Technology Alignment and Organizational Agility: Insights from a Mediation Model. MIS Quarterly, 35(2), 463. DOI:10.2307/23044052
+Zhang, X. (2017). Knowledge Management System Use and Job Performance: A Multilevel Contingency Model. MIS Quarterly, 41(3), 811–840.
+Xue, Ray, & Sambamurthy. (2012). Efficiency or Innovation: How Do Industry Environments Moderate the Effects of Firms’ IT Asset Portfolios? MIS Quarterly, 36(2), 509. DOI:10.2307/41703465
+Majchrzak, A., Wagner, C., & Yates, D. (2013). The Impact of Shaping on Knowledge Reuse for Organizational Improvement with Wikis. MIS Quarterly, 37(2), 455–469.
+Gerow, J. E., Grover, V., Thatcher, J., … Roth, P. L. (2014). Looking Toward the Future of IT-Business Strategic Alignment through the Past: A Meta-Analysis. MIS Quarterly, 38(4), 1059–1085. DOI:10.25300/misq/2014/38.4.10
+Carlo, Lyytinen, & Rose. (2012). A Knowledge-Based Model of Radical Innovation in Small Software Firms. MIS Quarterly, 36(3), 865.
+Wu, S. P.-J., Straub, D. W., & Liang, T.-P. (2015). How Information Technology Governance Mechanisms and Strategic Alignment Influence Organizational Performance: Insights from a Matched Survey of Business and IT Managers. MIS Quarterly, 39(2), 497–518. DOI:10.25300/misq/2015/39.2.10
+Rai, A., Arikan, I., Pye, J., … Tiwana, A. (2015). Fit and Misfit of Plural Sourcing Strategies and IT-Enabled Process Integration Capabilities: Consequences of Firm Performance in the U.S. Electric Utility Industry. MIS Quarterly, 39(4), 865–885. DOI:10.25300/misq/2015/39.4.6
+Venkatesh, V., Rai, A., Sykes, T. A., … Aljafari, R. (2016). Combating Infant Mortality in Rural India:Evidence from a Field Study of eHealth Kiosk Implementations. MIS Quarterly, 40(2), 353–380.
+Nelson, K. M., & Cooprider, J. G. (1996). The Contribution of Shared Knowledge to IS Group Performance. MIS Quarterly, 20(4), 409. DOI:10.2307/249562
+Chen, Y., & Zahedi, F. M. (2016). Individuals’ Internet Security Perceptions and Behaviors. MIS Quarterly, 40(1), 205-222.
+Vance, A., Lowry, P. B., & Eggett, D. (2015). Increasing Accountability Through User-Interface Design Artifacts: A New Approach to Addressing the Problem of Access-Policy Violations. MIS Quarterly, 39(2), 345–366.
+Boss, S. R., Galletta, D. F., Lowry, P. B., Moody, G. D., … Polak, P. (2015). What Do Systems Users Have to Fear? Using Fear Appeals to Engender Threats and Fear that Motivate Protective Security Behaviors. MIS Quarterly, 39(4), 837–864.
+Johnston, A. C., Warkentin, M., & Siponen, M. (2015). An Enhanced Fear Appeal Rhetorical Framework: Leveraging Threats to the Human Asset Through Sanctioning Rhetoric. MIS Quarterly, 39(1), 113–134.
+Wang, J., Gupta, M., & Rao, H. R. (2015). Insider Threats in a Financial Institution: Analysis of Attack-Proneness of Information Systems Applications. MIS Quarterly, 39(1), 91–112.
+Willison, R., & Warkentin, M. (2013). Beyond Deterrence: An Expanded View of Employee Computer Abuse. MIS Quarterly, 37(1), 1–20.
+Anderson, & Agarwal. (2010). Practicing Safe Computing: A Multimethod Empirical Examination of Home Computer User Security Behavioral Intentions. MIS Quarterly, 34(3), 613.
+Gordon, Loeb, & Sohail. (2010). Market Value of Voluntary Disclosures Concerning Information Security. MIS Quarterly, 34(3), 567.
+Johnston, & Warkentin. (2010). Fear Appeals and Information Security Behaviors: An Empirical Study. MIS Quarterly, 34(3), 549.
+Bulgurcu, Cavusoglu, & Benbasat. (2010). Information Security Policy Compliance: An Empirical Study of Rationality-Based Beliefs and Information Security Awareness. MIS Quarterly, 34(3), 523.
+Siponen, & Vance. (2010). Neutralization: New Insights into the Problem of Employee Information Systems Security Policy Violations. MIS Quarterly, 34(3), 487.
+Harrington, S. J. (1996). The Effect of Codes of Ethics and Personal Denial of Responsibility on Computer Abuse Judgments and Intentions. MIS Quarterly, 20(3), 257.
+Straub, D. W., & Nance, W. D. (1990). Discovering and Disciplining Computer Abuse in Organizations: A Field Study. MIS Quarterly, 14(1), 45.
+Bapna, R., Qiu, L., & Rice, S. (2017). Repeated Interactions Versus Social Ties: Quantifying the Economic Value of Trust, Forgiveness, and Reputation Using a Field Experiment. MIS Quarterly, 41(3), 841–866.
+Xiao, & Benbasat. (2011). Product-Related Deception in E-Commerce: A Theoretical Perspective. MIS Quarterly, 35(1), 169. DOI:10.2307/23043494
+Han, W., Ada, S., Sharman, R., … Rao, H. R. (2015). Campus Emergency Notification Systems: An Examination of Factors Affecting Compliance with Alerts. MIS Quarterly, 39(4), 909–929.
+Burtch, G., Ghose, A., & Wattal, S. (2014). Cultural Differences and Geography as Determinants of Online Prosocial Lending. MIS Quarterly, 38(3), 773–794. DOI:10.25300/misq/2014/38.3.07
+Fang, Y., Qureshi, I., Sun, H., McCole, P., … Ramsey, E. (2014). Trust, Satisfaction, and Online Repurchase Intention: The Moderating Role of Perceived Effectiveness of E-Commerce Institutional Mechanisms. MIS Quarterly, 38(2), 407–427. DOI:10.25300/misq/2014/38.2.04
+Xiao, & Benbasat. (2007). E-Commerce Product Recommendation Agents: Use, Characteristics, and Impact. MIS Quarterly, 31(1), 137. DOI:10.2307/25148784
+Komiak, & Benbasat. (2006). The Effects of Personalization and Familiarity on Trust and Adoption of Recommendation Agents. MIS Quarterly, 30(4), 941. DOI:10.2307/25148760
+Pavlou, & Fygenson. (2006). Understanding and Predicting Electronic Commerce Adoption: An Extension of the Theory of Planned Behavior. MIS Quarterly, 30(1), 115. DOI:10.2307/25148720
+Klein, & Rai. (2009). Interfirm Strategic Information Flows in Logistics Supply Chain Relationships. MIS Quarterly, 33(4), 735. DOI:10.2307/20650325
+Cyr, Head, Larios, & Pan. (2009). Exploring Human Images in Website Design: A Multi-Method Approach. MIS Quarterly, 33(3), 539. DOI:10.2307/20650308
+Sia, Lim, Leung, Lee, Huang, & Benbasat. (2009). Web Strategies to Promote Internet Shopping: Is Cultural-Customization Needed? MIS Quarterly, 33(3), 491. DOI:10.2307/20650306
+Choudhury, & Karahanna. (2008). The Relative Advantage of Electronic Channels: A Multidimensional View. MIS Quarterly, 32(1), 179.
+Gefen, Karahanna, & Straub. (2003). Trust and TAM in Online Shopping: An Integrated Model. MIS Quarterly, 27(1), 51. DOI:10.2307/30036519
+Benitez, J., Ray, G., & Henseler, J. (2018). Impact of information technology infrastructure flexibility on mergers and acquisitions. MIS quarterly, 42(1), 25-44.
+Mindel, V., Mathiassen, L., & Rai, A. (2018). The sustainability of polycentric information commons. MIS Quarterly, 42(2), 607-632.
